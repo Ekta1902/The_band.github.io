@@ -1,1 +1,1 @@
-# The_band.github.io is live on https://github.com/ekta1902/Tours-and-travels.github.io.git
+# The_band.github.io is live on https://ekta1902.github.io/The_band.github.io/
